@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Saul and Oscar's Website
 
-You can use the [editor on GitHub](https://github.com/Swool12/Scratch-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you will find our game.
+Enjoy.
 
 ### Markdown
 
