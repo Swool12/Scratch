@@ -1,0 +1,28 @@
+body{
+       font-family:"Times New Roman", fantasy;
+ 	 color: #003366;
+    }
+
+    h1  {
+ 	   font-size: 2.5em;
+ 	   text-align: left;
+    }
+
+   table {
+ 	   margin-left: auto;
+ 	   margin-right: auto;
+ 	   text-align: left;
+ 	   border-collapse: collapse;
+   }
+
+   tr   {
+	  border: 1px solid #ffffff;
+	  text-align: left;
+	  background-color:#9FB6CD;
+  }
+
+  th   {
+	 text-align: left;
+	 color: #ffffff;
+	 background-color: #003300;
+  }
